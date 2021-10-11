@@ -1,0 +1,11 @@
+# data
+numpy
+pandas
+pyarrow
+
+# modeling
+scikit-learn
+
+# viz
+matplotlib
+scikit-plot
